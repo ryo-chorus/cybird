@@ -1,5 +1,5 @@
-import os, json
 # coding:utf-8
+import os, json
 PRICE_CASH = 130  # 現金で購入した時の切符の金額
 PRICE_EMONEY = 124 # 電子マネーで購入した時の切符の金額
 PATH_CASH = "../data/have_money.json" # 所持金情報を格納するファイル
